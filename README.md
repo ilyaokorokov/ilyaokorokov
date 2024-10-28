@@ -65,10 +65,6 @@
 <h2>:fire: Статистика :</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilyaokorokov)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilyaokorokov&theme=white&background=ffffff)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaokorokov&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ilyaokorokov&show_icons=true&count_private=true"><img
