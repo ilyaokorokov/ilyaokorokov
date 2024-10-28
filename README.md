@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/charles-proxy-icon-508x512-o1h14ltc.png" title="CharlesProxy" alt="CharlesProxy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
