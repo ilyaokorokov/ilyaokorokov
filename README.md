@@ -70,7 +70,13 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaokorokov&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
   </div>
-  
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=ilyaokorokov&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=ilyaokorokov&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaokorokov&layout=compact"/></a>
+</p>
 ---
 <div id="statistics" align="center">
   <h2>:writing_hand: Мои проекты :</h2>
